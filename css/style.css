@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-header{
+    background-color: rgb(33, 37, 41);
+}
+
+.size-photo1{
+    width: 30%;
+}
+
+.ts-small{
+    font-size: small;
+}
